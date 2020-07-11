@@ -1,0 +1,20 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "It is a mini, web \"rock paper or scissors\" game!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehermahmud/rock-paper-scissors-game.git"
+  },
+  "author": "Seher Mahmud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sehermahmud/rock-paper-scissors-game/issues"
+  },
+  "homepage": "https://github.com/sehermahmud/rock-paper-scissors-game#readme",
+  "dependencies": {}
+}
