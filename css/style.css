@@ -4,8 +4,8 @@
 
 /* header in the index.html file */
 .header {
-    height: 600px;
-    padding: 60px;
+    height: 630px;
+    padding: 30px;
     text-align: center;
     background: cornflowerblue;
     color: white;
@@ -36,4 +36,16 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 8px;
+}
+
+.footer {
+    position: relative;
+    background: palevioletred;
+    text-align: center;
+    color: white;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
 }
