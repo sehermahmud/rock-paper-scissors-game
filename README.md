@@ -34,7 +34,7 @@ app.js: Added the live of this whole project in this file and that is the main p
 This three are the main files there you have to understand and know that where is where? and what you are looking for?. This might help for finding code or logic in this game.
 
 
-Some links has been been used in this game.
+Some links has been used in this game.
 
 Here are the links that i uses for styling
 
