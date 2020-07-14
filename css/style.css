@@ -39,29 +39,26 @@
 }
 
 .footer {
-    position: relative;
-    background: palevioletred;
-    text-align: center;
-    color: white;
-    width: 100%;
     left: 0;
     bottom: 0;
-    justify-content: center;
-    align-items: center;
-}
-
-a:link {
-    text-decoration: none;
-}
+    width: 100%;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    font-family: 'Merienda One', cursive;
+  }
   
-a:visited {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: none;
-}
+  main {
+    margin-bottom: 10rem;
+  }
   
-a:active {
+  .github {
+    color: hotpink;
     text-decoration: none;
-}
+  }
+  
+  .github:hover,
+  .github:active {
+    color: red;
+    text-decoration: none;
+  }
